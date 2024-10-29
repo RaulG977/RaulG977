@@ -25,7 +25,7 @@
 			<li>Bases de datos</li>
 			<li>Entornos de desarrollo</li>
 			<li>Programaci&ocute;n</li>
-			<li>Sistemas inform&acute;ticos</li>
+			<li>Sistemas informa&acute;ticos</li>
 		</ul>
 	
 		</p>
