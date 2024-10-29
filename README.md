@@ -1,12 +1,13 @@
-- 👋 Hi, I’m @RaulG977
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-RaulG977/RaulG977 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<email>
+	<remitente>
+		<persona>
+		<nombre> Pepito </nombre>
+		<apellido> Grillo </apellido>
+		</persona>
+	</remitente>
+	<destinatario>
+		<direccion> pinocho@hotmail.com </direccion>
+	</destinatario>
+	<asunto>¿quedamos?</asunto>
+	<mensaje> Hola, he visto que ponen esta noche la película que querías ver. ¿Te apetece ir?</mensaje>
+</email>
