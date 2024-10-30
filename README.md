@@ -19,11 +19,17 @@
 					<li>Entornos de desarrollo</li>
 					<li>Programación</li>
 					<li>Sistemas informáticos</li>
-					<li><del>Itinerario personal para la empleabilidad</del></br></li>
+					<li><del>Itinerario personal para la empleabilidad</del></li>
 					<b>Web del centro: </b>
 					<A HREF="https://sites.google.com/view/fplaconservera"> CIFP La Conservera </A>
 				</ul>
 			<li>Stack Tecnológicos conocidos: </li>
+				<ul>
+					<li>Sistemas Operativos</li>
+					<li>Bases de datos</li>
+					<li>Entornos de desarrollo</li>
+					<li>Lenguajes</li>
+				</ul>
 		</ol>
 	</body>
 </html>
