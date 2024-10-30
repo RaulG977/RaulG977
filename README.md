@@ -11,16 +11,14 @@
 			<b>Mi nombre es Raúl García Yelo</b>
 		</p>
 
-		<ol>
-			<li><b>1.Entidad educativa: </b></li>
-			<p>Centro integral de Formación Profesional a Distancia "La Conservera"-Región de Murcia</p>
-		
-		
-			<li><b>Nivel educativo: </b></li>
-			<p>Desarrollo de Aplicaciones Multiplataforma(DAM)</p>
-		
+		<p>
+			<b>1.Entidad educativa: Centro integral de Formación Profesional a Distancia "La Conservera"-Región de Murcia</b>
+		</p>
+		<p>
+			<b>2.Nivel educativo: Desarrollo de Aplicaciones Multiplataforma(DAM)</b>
+		</p>
 
-			<li><b>Asignaturas matriculadas: </b></li>
+		<p> 	<b>3.Asignaturas matriculadas: </b></br>
 		<ul>
 				<li>Lenguajes de marcas y sistemas de gestión de la información</li>
 				<li>Bases de datos</li>
@@ -34,10 +32,10 @@
 		</ul>
 			<b>Web del centro: </b>
 			<A HREF="https://sites.google.com/view/fplaconservera"> CIFP La Conservera </A>
-		
+		</p>
 
-			
-			<li><b>Stack Tecnológico Conocido: </b></li>
+		<p>	
+			<b>4.Stack Tecnológico Conocido: </b>
 			<ul>
 				<li>Sistemas operativos: </li>
 					<ul>
@@ -75,11 +73,10 @@
 						<li>Git</li>
 					</ul>
 			</ul>
-		
+		</p>
 
-		
-			
-		</ol>
+		<p>
+		<>
 
 
 	</body>
