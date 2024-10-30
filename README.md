@@ -10,7 +10,6 @@
 			<li>Nivel educativo: </li>
 				<p>Desarrollo de Aplicaciones Multiplataforma(DAM)</p>
 			<li>Asignaturas matriculadas: </li>
-				<p>
 				<ul>
 					<li>Lenguajes de marcas y sistemas de gestión de la información</li>
 					<li>Bases de datos</li>
@@ -23,15 +22,6 @@
 					<li><del>Itinerario personal para la empleabilidad</del></li>
 					<b>Web del centro: </b>
 					<A HREF="https://sites.google.com/view/fplaconservera"> CIFP La Conservera </A>
-				</ul>
-				</p>
-
-			<li>Stack Tecnológicos conocidos: </li>
-				<ul>
-					<li>Sistemas operativos: </li>
-					<li>Bases de datos:</li>
-					<li>Entornos de desarrollo: </li>
-					<li>Lenguajes: </li>
 				</ul>
 		</ol>
 	</body>
