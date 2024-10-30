@@ -40,7 +40,27 @@
 							<li>Oracle</li>
 						</ul>
 					<li>Entornos de desarrollo</li>
+						<ul>
+							<li>IntelliJ IDEA</li>
+							<li>CodeBlocks</li>
+							<li>NetBeans</li>
+							<li>Eclipse</li>
+							<li>Visual Studio</li>	
+						</ul>
 					<li>Lenguajes</li>
+						<ul>
+							<li>Java</li>
+							<li>C</li>
+							<li>C++</li>
+							<li>C#</li>
+							<li>Python</li>
+							<li>HTML</li>
+							<li>XML</li>
+							<li>Java Script</li>
+							<li>CSS</li>
+							<li>VSCode</li>
+							<li>Git</li>
+						</ul>
 				</ul>
 		</ol>
 	</body>
