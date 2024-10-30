@@ -25,6 +25,12 @@
 				<A HREF="https://sites.google.com/view/fplaconservera"> CIFP La Conservera </A>
 
 			<li>Stack Tecnológicos conocidos: </li>
+				<ul>
+					<li>Sistemas operativos: </li>
+					<li>Bases de datos:</li>
+					<li>Entornos de desarrollo: </li>
+					<li>Lenguajes: </li>
+				</ul>
 		</ol>
 	</body>
 </html>
