@@ -27,6 +27,13 @@
 			<li>Stack Tecnológicos conocidos: </li>
 				<ul>
 					<li>Sistemas Operativos</li>
+						<ul>
+							<li>Windows</li>
+							<li>Linux</li>
+							<li>Android</li>
+							<li>IOS</li>
+							<li>MacOS</li>
+						</ul>
 					<li>Bases de datos</li>
 					<li>Entornos de desarrollo</li>
 					<li>Lenguajes</li>
