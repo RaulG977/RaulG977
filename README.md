@@ -23,6 +23,7 @@
 					<b>Web del centro: </b>
 					<A HREF="https://sites.google.com/view/fplaconservera"> CIFP La Conservera </A>
 				</ul>
+			<li>Stack Tecnológicos conocidos: </li>
 		</ol>
 	</body>
 </html>
