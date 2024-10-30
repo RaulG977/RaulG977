@@ -39,7 +39,7 @@
 
 		<p>	
 		<b>4.Stack Tecnológico Conocido: </b>
-		</p>
+		
 			<ul>
 				<li>Sistemas operativos: </li>
 					<ul>
@@ -77,6 +77,6 @@
 						<li>Git</li>
 					</ul>
 			</ul>
-		
+		</p>
 	</body>
 </html>
