@@ -20,6 +20,8 @@
 					<li>Programación</li>
 					<li>Sistemas informáticos</li>
 					<li><del>Itinerario personal para la empleabilidad</del></li>
+					<b>Web del centro: </b>
+					<A HREF="https://sites.google.com/view/fplaconservera"> CIFP La Conservera </A>
 				</ul>
 				
 
