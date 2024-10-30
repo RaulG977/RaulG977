@@ -8,8 +8,6 @@
 				<ul>
 					<li>Lista1.1</li>
 					<li>Lista1.2</li>
-			
-				</ul>
 
 			<li>Lista2</li>
 			
