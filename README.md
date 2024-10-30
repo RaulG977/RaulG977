@@ -20,9 +20,9 @@
 
 		<p> 	
 		
-		<b>3.Asignaturas matriculadas: </b></br>
+			<b>3.Asignaturas matriculadas: </b></br>
 
-		<ul>
+				<ul>
 				<li>Lenguajes de marcas y sistemas de gestión de la información</li>
 				<li>Bases de datos</li>
 				<li>Digitalización aplicada al sistema productivo</li>
@@ -32,51 +32,51 @@
 				<li>Programación</li>
 				<li>Sistemas informáticos</li>
 				<li><del>Itinerario personal para la empleabilidad</del></li>
-		</ul>
+				</ul>
 			<b>Web del centro: </b>
 			<A HREF="https://sites.google.com/view/fplaconservera"> CIFP La Conservera </A>
 		</p>
 
 		<p>	
-		<b>4.Stack Tecnológico Conocido: </b>
+			<b>4.Stack Tecnológico Conocido: </b>
 		
-			<ul>
+				<ul>
 				<li>Sistemas operativos: </li>
 					<ul>
-						<li>Windows</li>
-						<li>Linux</li>
-						<li>Android</li>
-						<li>IOS</li>
-						<li>MacOS</li>
-						</ul>
+					<li>Windows</li>
+					<li>Linux</li>
+					<li>Android</li>
+					<li>IOS</li>
+					<li>MacOS</li>
+					</ul>
 				<li>Bases de datos</li>
 					<ul>
-						<li>MySQL</li>
-						<li>Oracle</li>
+					<li>MySQL</li>
+					<li>Oracle</li>
 					</ul>
 				<li>Entornos de desarrollo</li>
 					<ul>
-						<li>IntelliJ IDEA</li>
-						<li>CodeBolcks</li>
-						<li>NetBeans</li>
-						<li>Eclipse</li>
-						<li>Visual Studio</li>
+					<li>IntelliJ IDEA</li>
+					<li>CodeBolcks</li>
+					<li>NetBeans</li>
+					<li>Eclipse</li>
+					<li>Visual Studio</li>
 					</ul>
 				<li>Lenguajes</li>
 					<ul>
-						<li>Java</li>
-						<li>C</li>
-						<li>C++</li>
-						<li>C#</li>
-						<li>Python</li>
-						<li>HTML</li>
-						<li>XML</li>
-						<li>Java Script</li>
-						<li>CSS</li>
-						<li>VSCode</li>
-						<li>Git</li>
+					<li>Java</li>
+					<li>C</li>
+					<li>C++</li>
+					<li>C#</li>
+					<li>Python</li>
+					<li>HTML</li>
+					<li>XML</li>
+					<li>Java Script</li>
+					<li>CSS</li>
+					<li>VSCode</li>
+					<li>Git</li>
 					</ul>
-			</ul>
+				</ul>
 		</p>
 	</body>
 </html>
