@@ -21,6 +21,9 @@
 					<li>Sistemas informáticos</li>
 					<li><del>Itinerario personal para la empleabilidad</del></li>
 				</ul>
+				<b>Web del centro: </b>
+				<A HREF="https://sites.google.com/view/fplaconservera"> CIFP La Conservera </A>
+
 			<li>Stack Tecnológicos conocidos: </li>
 		</ol>
 	</body>
