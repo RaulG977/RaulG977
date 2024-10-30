@@ -35,6 +35,10 @@
 							<li>MacOS</li>
 						</ul>
 					<li>Bases de datos</li>
+						<ul>
+							<li>MySQL</li>
+							<li>Oracle</li>
+						</ul>
 					<li>Entornos de desarrollo</li>
 					<li>Lenguajes</li>
 				</ul>
