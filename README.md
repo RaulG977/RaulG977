@@ -53,6 +53,6 @@
 | :---: | :---: | :---: | :---: | :---: |
 | Oracle |  virtual box | IntelliJ IDEA |  IntelliJ IDEA| Markdown |
 | MySql | linux | Visual Studio | Java | HTML |
-| SQL | Windows | | DrawIO | XML|
+| SQL | Windows | | GitMind | XML|
 # 6.Preferencias Tecnológicas:   
 ### En cuanto a mis preferencias tecnológicas, me gustaría centrarme en la administración y gestión de bases de datos. Ya que me resulta una rama muy curiosa, la cuál cada día es de mayor uso. 
